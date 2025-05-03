@@ -12,7 +12,7 @@ export default function Home() {
             <h2 className="text-2xl font-semibold mb-2">Toronto Guessr</h2>
             <div className="relative w-full h-48 mb-4 rounded overflow-hidden">
               <Image
-                src="/torontothumbnail.webp"
+                src="/TorontoThumbnail.webp"
                 alt="Toronto Guessr Thumbnail"
                 fill
                 className="object-cover"
@@ -36,7 +36,7 @@ export default function Home() {
             <h2 className="text-2xl font-semibold mb-2">Calgary Guessr</h2>
             <div className="relative w-full h-48 mb-4 rounded overflow-hidden">
               <Image
-                src="/calgarythumbnail.webp"
+                src="/CalgaryThumbnail.webp"
                 alt="Calgary Guessr Thumbnail"
                 fill
                 className="object-cover"
